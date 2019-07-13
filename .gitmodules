@@ -1,6 +1,6 @@
 [submodule "my_bash_settings"]
 	path = my_bash_settings
-	url = git@github.com:jxl212/my_bash_settings.git
+	url = https://github.com/jxl212/my_bash_settings.git
 [submodule "enable-linux-shell-in-windows-10"]
 	path = enable-linux-shell-in-windows-10
-	url = git@github.com:jxl212/enable-linux-shell-in-windows-10.git
+	url = https://github.com/jxl212/enable-linux-shell-in-windows-10.git
