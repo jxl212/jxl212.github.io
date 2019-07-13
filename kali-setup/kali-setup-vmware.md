@@ -12,7 +12,7 @@ from https://docs.kali.org/general-use/kali-linux-sources-list-repositories
 ---
 ## Installing VMware Tools in Kali Linux Rolling
 > install open-vm-tools in Kali, first make sure you are fully updated, and then enter the following:
->
+
 ```bash
 apt update && apt -y full-upgrade
 
