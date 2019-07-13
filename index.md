@@ -9,5 +9,5 @@
   linux shell subsystem
 
 
-### [setup Kali VM (VMWare)](kali-setup/kali-setup-vmware.md)
+### [setup Kali VM (VMWare)](kali-setup/kali-setup-vmware.html)
   setup Kali vm in vmware
