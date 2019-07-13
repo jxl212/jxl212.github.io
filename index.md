@@ -1,7 +1,9 @@
 # How to Install Linux Bash Shell on Windows 10
 
 ### Step 1: Enable Windows subsytem for Linux
-`Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux`
+```PowerShell
+Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
+```
 - Run PowerShell as administrator and run the above command
 - confirm when prompted
 - reboot...
