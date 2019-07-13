@@ -9,7 +9,7 @@
 ### Step 2: Download a Linux system from Windows store
 * Search for Linux in Windows 10 Store
 * Downlaod and Install the distribution you want from Windows Store (I picked Ubuntu)
-![Image]("Linux Bash Shell on Windows 10.png")
+ ![Linux Bash Shell on Windows 10](./Windows-10-Ubuntu.png)
 
 ## Step 3: Launch Unbuntu (from you start menu)
 * after initialising, it will ask for unix username and password
