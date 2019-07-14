@@ -3,7 +3,7 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "Main Page"
 theme = "cayman-hugo-theme"
-
+publishDir = "docs"
 # Google analytics
 #googleAnalytics = "UA-123456789-1"
 
