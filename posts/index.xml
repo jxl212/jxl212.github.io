@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Bar</title>
-    <link>http://example.org/posts/</link>
+    <link>https://jxl212.github.io/posts/</link>
     <description>Recent content in Posts on Bar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Jul 2019 23:22:47 -0400</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jxl212.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Post One</title>
-      <link>http://example.org/posts/post-one/</link>
+      <link>https://jxl212.github.io/posts/post-one/</link>
       <pubDate>Sat, 13 Jul 2019 23:22:47 -0400</pubDate>
       
-      <guid>http://example.org/posts/post-one/</guid>
+      <guid>https://jxl212.github.io/posts/post-one/</guid>
       <description>post one!!1!</description>
     </item>
     
     <item>
       <title>First Post</title>
-      <link>http://example.org/posts/first-post/</link>
+      <link>https://jxl212.github.io/posts/first-post/</link>
       <pubDate>Sat, 13 Jul 2019 22:27:22 -0400</pubDate>
       
-      <guid>http://example.org/posts/first-post/</guid>
+      <guid>https://jxl212.github.io/posts/first-post/</guid>
       <description>this is my first post</description>
     </item>
     
     <item>
       <title>Second Post</title>
-      <link>http://example.org/posts/second-post/</link>
+      <link>https://jxl212.github.io/posts/second-post/</link>
       <pubDate>Sat, 13 Jul 2019 22:27:22 -0400</pubDate>
       
-      <guid>http://example.org/posts/second-post/</guid>
+      <guid>https://jxl212.github.io/posts/second-post/</guid>
       <description>My Kali Setup from https://docs.kali.org/general-use/kali-linux-sources-list-repositories
 sources.list  Kali Rolling is the primary repository that most users should be using
 Kali Rolling users are expected to have the following entries in their sources.list:
@@ -44,10 +44,10 @@ deb http://http.kali.org/kali kali-rolling main non-free contrib   Installing VM
     
     <item>
       <title>My Bash Settings</title>
-      <link>http://example.org/posts/my-bash-settings/</link>
+      <link>https://jxl212.github.io/posts/my-bash-settings/</link>
       <pubDate>Sat, 13 Jul 2019 19:56:22 -0400</pubDate>
       
-      <guid>http://example.org/posts/my-bash-settings/</guid>
+      <guid>https://jxl212.github.io/posts/my-bash-settings/</guid>
       <description>bash shell setting misc &amp;lsquo;run commands&amp;rsquo; files (bashrc, inputrc, vimrc, &amp;hellip;) settings like partial history searches, colored man pages</description>
     </item>
     
