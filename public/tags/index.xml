@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Main Page</title>
+    <link>https://jxl212.github.io/tags/</link>
+    <description>Recent content in Tags on Main Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Jul 2019 19:56:22 -0400</lastBuildDate>
+    
+	<atom:link href="https://jxl212.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>bash</title>
+      <link>https://jxl212.github.io/tags/bash/</link>
+      <pubDate>Sat, 13 Jul 2019 19:56:22 -0400</pubDate>
+      
+      <guid>https://jxl212.github.io/tags/bash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>installation</title>
+      <link>https://jxl212.github.io/tags/installation/</link>
+      <pubDate>Sat, 13 Jul 2019 19:56:22 -0400</pubDate>
+      
+      <guid>https://jxl212.github.io/tags/installation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kali</title>
+      <link>https://jxl212.github.io/tags/kali/</link>
+      <pubDate>Sat, 13 Jul 2019 19:56:22 -0400</pubDate>
+      
+      <guid>https://jxl212.github.io/tags/kali/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux shell</title>
+      <link>https://jxl212.github.io/tags/linux-shell/</link>
+      <pubDate>Sat, 13 Jul 2019 19:56:22 -0400</pubDate>
+      
+      <guid>https://jxl212.github.io/tags/linux-shell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>run commands</title>
+      <link>https://jxl212.github.io/tags/run-commands/</link>
+      <pubDate>Sat, 13 Jul 2019 19:56:22 -0400</pubDate>
+      
+      <guid>https://jxl212.github.io/tags/run-commands/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vmware</title>
+      <link>https://jxl212.github.io/tags/vmware/</link>
+      <pubDate>Sat, 13 Jul 2019 19:56:22 -0400</pubDate>
+      
+      <guid>https://jxl212.github.io/tags/vmware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>windows 10</title>
+      <link>https://jxl212.github.io/tags/windows-10/</link>
+      <pubDate>Sat, 13 Jul 2019 19:56:22 -0400</pubDate>
+      
+      <guid>https://jxl212.github.io/tags/windows-10/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
