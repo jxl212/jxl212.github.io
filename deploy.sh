@@ -23,7 +23,7 @@ rm -rf .git/worktrees/public/
 
 msg="Checking out gh-pages branch into public"
 echo -e "${COLOR_START}${msg}${COLOR_END}"
-git worktree add -B gh-pages public upstream/gh-pages
+git worktree add -B gh-pages public origin/gh-pages
 if [ $? -gt 0 ]; then
 	msg="error adding worktree"
 	echo -e "${COLOR_START_2}$msg${COLOR_END}"
