@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>run commands on Main Page</title>
+    <link>https://jxl212.github.io/tags/run-commands/</link>
+    <description>Recent content in run commands on Main Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Jul 2019 19:56:22 -0400</lastBuildDate>
+    
+	<atom:link href="https://jxl212.github.io/tags/run-commands/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My Bash Settings</title>
+      <link>https://jxl212.github.io/my-bash-settings/</link>
+      <pubDate>Sat, 13 Jul 2019 19:56:22 -0400</pubDate>
+      
+      <guid>https://jxl212.github.io/my-bash-settings/</guid>
+      <description>bash shell setting misc &amp;lsquo;run commands&amp;rsquo; files (bashrc, inputrc, vimrc, &amp;hellip;) settings like partial history searches, colored man pages</description>
+    </item>
+    
+  </channel>
+</rss>
