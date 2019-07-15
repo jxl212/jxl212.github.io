@@ -1,28 +1,40 @@
 #!/bin/bash
 
-echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
+COLOR_START='\033[0;32m'
+COLOR_START_2='\033[0;31m'
+COLOR_END='\033[0m'
 
-# update submodulea
-git submodule update --remote --merge
+msg="Deploying updates to GitHub..."
+echo -e "${COLOR_START}$msg${COLOR_END}"
 
-
-# Build the project.
-hugo # if using a theme, replace with `hugo -t <YOURTHEME>`
-
-# # Go To Public folder
-# cd public
-# # Add changes to git.
-# git add .
-
-# Commit changes.
-msg="rebuilding site `date`"
-if [ $# -eq 1 ]
-  then msg="$1"
+if [ "`git status -s`" ]
+then
+	msg="The working directory is dirty. Please commit any pending changes."
+	echo -e "${COLOR_START_2}$msg${COLOR_END}"
+    exit 1;
 fi
-git commit -m "$msg"
 
-# Push source and build repos.
-git push origin master
+echo -e "${COLOR_START}Deleting old publication${COLOR_END}"
+rm -rf public
+mkdir public
+git worktree prune
+rm -rf .git/worktrees/public/
 
-# Come Back up to the Project Root
-# cd ..
+msg="Checking out gh-pages branch into public"
+echo -e "${COLOR_START}${msg}${COLOR_END}"
+git worktree add -B gh-pages public upstream/gh-pages
+
+msg="Removing existing files"
+echo -e "${COLOR_START}${msg}${COLOR_END}"
+rm -rf public/*
+
+msg="Generating site"
+echo -e "${COLOR_START}${msg}${COLOR_END}"
+hugo
+
+msg="Updating gh-pages branch"
+echo -e "${COLOR_START}${msg}${COLOR_END}"
+cd public && git add --all && git commit -m "Publishing to gh-pages (publish.sh)"
+
+#echo "Pushing to github"
+#git push --all
