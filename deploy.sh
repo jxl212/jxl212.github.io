@@ -14,7 +14,8 @@ then
     exit 1;
 fi
 
-echo -e "${COLOR_START}Deleting old publication${COLOR_END}"
+msg="Deleting old publication"
+echo -e "${COLOR_START}$msg${COLOR_END}"
 rm -rf public
 mkdir public
 git worktree prune
@@ -23,6 +24,13 @@ rm -rf .git/worktrees/public/
 msg="Checking out gh-pages branch into public"
 echo -e "${COLOR_START}${msg}${COLOR_END}"
 git worktree add -B gh-pages public upstream/gh-pages
+if [ $? -gt 0 ]; then
+	msg="error adding worktree"
+	echo -e "${COLOR_START_2}$msg${COLOR_END}"
+    exit 1;
+fi
+
+
 
 msg="Removing existing files"
 echo -e "${COLOR_START}${msg}${COLOR_END}"
