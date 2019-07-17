@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Main Page</title>
-    <link>https://jxl212.github.io/</link>
-    <description>Recent content on Main Page</description>
+    <title>Posts on Main Page</title>
+    <link>/</link>
+    <description>Recent content in Posts on Main Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 16 Jul 2019 12:50:30 -0400</lastBuildDate>
     
-	<atom:link href="https://jxl212.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Linux User Group Add</title>
-      <link>https://jxl212.github.io/linux-user-group-add/</link>
+      <link>/linux-user-group-add/</link>
       <pubDate>Tue, 16 Jul 2019 12:50:30 -0400</pubDate>
       
-      <guid>https://jxl212.github.io/linux-user-group-add/</guid>
+      <guid>/linux-user-group-add/</guid>
       <description> </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://jxl212.github.io/about/</link>
+      <link>/about/</link>
       <pubDate>Sat, 13 Jul 2019 23:52:59 -0400</pubDate>
       
-      <guid>https://jxl212.github.io/about/</guid>
-      <description>Todo&amp;hellip;</description>
+      <guid>/about/</guid>
+      <description>my github</description>
     </item>
     
     <item>
       <title>How to Install Linux Bash Shell on Windows 10</title>
-      <link>https://jxl212.github.io/enable-linux-shell-in-windows-10/</link>
+      <link>/enable-linux-shell-in-windows-10/</link>
       <pubDate>Sat, 13 Jul 2019 19:56:22 -0400</pubDate>
       
-      <guid>https://jxl212.github.io/enable-linux-shell-in-windows-10/</guid>
-      <description>Step 1: Enable Windows subsytem for Linux  Run PowerShell as administrator and run: Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux (Use Y or press enter when prompted to confirm) reboot  Step 2: Download a Linux system from Windows store  Search for Linux in Windows 10 Store Downlaod and Install the distribution you want from Windows Store (I picked Ubuntu)   Step 3: Launch Unbuntu (from you start menu)  after initialising, it will ask for unix username and password  enjoy your Linux subsystem</description>
+      <guid>/enable-linux-shell-in-windows-10/</guid>
+      <description>Step 1: Enable Windows subsytem for Linux Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux   Open PowerShell as administrator run the above script Use Y or press enter when prompted to confirm reboot  Step 2: Download a Linux system from Windows store  Search for Linux in Windows 10 Store Downlaod and Install the distribution you want from Windows Store (I picked Ubuntu)   Step 3: Launch Unbuntu (from you start menu)  after initialising, it will ask for unix username and password  enjoy your Linux subsystem</description>
     </item>
     
     <item>
       <title>My Bash Settings</title>
-      <link>https://jxl212.github.io/my-bash-settings/</link>
+      <link>/my-bash-settings/</link>
       <pubDate>Sat, 13 Jul 2019 19:56:22 -0400</pubDate>
       
-      <guid>https://jxl212.github.io/my-bash-settings/</guid>
+      <guid>/my-bash-settings/</guid>
       <description>bash shell setting misc &amp;lsquo;run commands&amp;rsquo; files (bashrc, inputrc, vimrc, &amp;hellip;) settings like partial history searches, colored man pages</description>
     </item>
     
     <item>
       <title>Setup Kali VM in vmware</title>
-      <link>https://jxl212.github.io/kali-setup/</link>
+      <link>/kali-setup/</link>
       <pubDate>Sat, 13 Jul 2019 19:56:22 -0400</pubDate>
       
-      <guid>https://jxl212.github.io/kali-setup/</guid>
+      <guid>/kali-setup/</guid>
       <description>My Kali Setup from https://docs.kali.org/general-use/kali-linux-sources-list-repositories
 sources.list  Kali Rolling is the primary repository that most users should be using
 Kali Rolling users are expected to have the following entries in their sources.list:

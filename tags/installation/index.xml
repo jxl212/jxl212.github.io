@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>installation on Main Page</title>
-    <link>https://jxl212.github.io/tags/installation/</link>
+    <link>/tags/installation/</link>
     <description>Recent content in installation on Main Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Jul 2019 19:56:22 -0400</lastBuildDate>
     
-	<atom:link href="https://jxl212.github.io/tags/installation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/installation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Setup Kali VM in vmware</title>
-      <link>https://jxl212.github.io/kali-setup/</link>
+      <link>/kali-setup/</link>
       <pubDate>Sat, 13 Jul 2019 19:56:22 -0400</pubDate>
       
-      <guid>https://jxl212.github.io/kali-setup/</guid>
+      <guid>/kali-setup/</guid>
       <description>My Kali Setup from https://docs.kali.org/general-use/kali-linux-sources-list-repositories
 sources.list  Kali Rolling is the primary repository that most users should be using
 Kali Rolling users are expected to have the following entries in their sources.list:

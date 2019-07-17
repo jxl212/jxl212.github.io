@@ -5,12 +5,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Hugo 0.55.6" />
-  <link rel="stylesheet" href="https://jxl212.github.io/css/normalize.css">
+  <link rel="stylesheet" href="/css/normalize.css">
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
   
   
   
-  <link rel="stylesheet" href="https://jxl212.github.io/css/cayman.2e4282a59a7b4781e3bca2b0071840929afe5f44369de9d8ffed9d1c0ff8461a.css">
+  <link rel="stylesheet" href="/css/cayman.808421911ce9bd5eca3e9d72124a2bd3ba36c56aa98ec2342e82e47fcdb5635e.css">
   
   
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -27,10 +27,10 @@
 <body>
   <section class="page-header">
   <h1 class="project-name">
-    My Homepage
+    tail -f jxl212/.*
   </h1>
   <h2 class="project-tagline">
-    tail -f jxl212/.*
+    
   </h2>
   <nav>
     
@@ -70,17 +70,20 @@
         
         
       
-      <a href="https://jxl212.github.io/tags/windows-10/">windows 10</a>, <a href="https://jxl212.github.io/tags/linux-shell/">linux shell</a>
+      <a href="/tags/windows-10/">windows 10</a>, <a href="/tags/linux-shell/">linux shell</a>
     </div>
   
   
 
 <h2 id="step-1-enable-windows-subsytem-for-linux">Step 1: Enable Windows subsytem for Linux</h2>
 
+<pre><code class="language-powershell">Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
+</code></pre>
+
 <ul>
-<li>Run PowerShell as administrator and run:
-<code>Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux</code>
-(Use Y or press enter when prompted to confirm)</li>
+<li>Open PowerShell as administrator</li>
+<li>run the above script</li>
+<li>Use Y or press enter when prompted to confirm</li>
 <li>reboot</li>
 </ul>
 

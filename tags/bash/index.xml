@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>bash on Main Page</title>
-    <link>https://jxl212.github.io/tags/bash/</link>
+    <link>/tags/bash/</link>
     <description>Recent content in bash on Main Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Jul 2019 19:56:22 -0400</lastBuildDate>
     
-	<atom:link href="https://jxl212.github.io/tags/bash/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/bash/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>My Bash Settings</title>
-      <link>https://jxl212.github.io/my-bash-settings/</link>
+      <link>/my-bash-settings/</link>
       <pubDate>Sat, 13 Jul 2019 19:56:22 -0400</pubDate>
       
-      <guid>https://jxl212.github.io/my-bash-settings/</guid>
+      <guid>/my-bash-settings/</guid>
       <description>bash shell setting misc &amp;lsquo;run commands&amp;rsquo; files (bashrc, inputrc, vimrc, &amp;hellip;) settings like partial history searches, colored man pages</description>
     </item>
     

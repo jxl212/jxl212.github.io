@@ -3,84 +3,84 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jxl212.github.io/linux-user-group-add/</loc>
+    <loc>/linux-user-group-add/</loc>
     <lastmod>2019-07-16T12:50:30-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jxl212.github.io/</loc>
+    <loc>/post/</loc>
     <lastmod>2019-07-16T12:50:30-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jxl212.github.io/post/</loc>
+    <loc>/</loc>
     <lastmod>2019-07-16T12:50:30-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jxl212.github.io/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2019-07-13T23:52:59-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jxl212.github.io/enable-linux-shell-in-windows-10/</loc>
+    <loc>/enable-linux-shell-in-windows-10/</loc>
     <lastmod>2019-07-13T19:56:22-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jxl212.github.io/my-bash-settings/</loc>
+    <loc>/my-bash-settings/</loc>
     <lastmod>2019-07-13T19:56:22-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jxl212.github.io/kali-setup/</loc>
+    <loc>/kali-setup/</loc>
     <lastmod>2019-07-13T19:56:22-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jxl212.github.io/tags/</loc>
-    <lastmod>2019-07-13T19:56:22-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jxl212.github.io/tags/bash/</loc>
+    <loc>/tags/</loc>
     <lastmod>2019-07-13T19:56:22-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jxl212.github.io/tags/installation/</loc>
+    <loc>/tags/bash/</loc>
     <lastmod>2019-07-13T19:56:22-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jxl212.github.io/tags/kali/</loc>
+    <loc>/tags/installation/</loc>
     <lastmod>2019-07-13T19:56:22-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jxl212.github.io/tags/linux-shell/</loc>
+    <loc>/tags/kali/</loc>
     <lastmod>2019-07-13T19:56:22-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jxl212.github.io/tags/run-commands/</loc>
+    <loc>/tags/linux-shell/</loc>
     <lastmod>2019-07-13T19:56:22-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jxl212.github.io/tags/vmware/</loc>
+    <loc>/tags/run-commands/</loc>
     <lastmod>2019-07-13T19:56:22-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jxl212.github.io/tags/windows-10/</loc>
+    <loc>/tags/vmware/</loc>
+    <lastmod>2019-07-13T19:56:22-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/windows-10/</loc>
     <lastmod>2019-07-13T19:56:22-04:00</lastmod>
     <priority>0</priority>
   </url>
