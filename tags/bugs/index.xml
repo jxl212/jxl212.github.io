@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bugs on Main Page</title>
+    <link>/tags/bugs/</link>
+    <description>Recent content in Bugs on Main Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Jul 2019 13:25:30 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/bugs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Packet Tracer 7.2 MacOS Bug</title>
+      <link>/packet-tracer-7.2-macos-bug/</link>
+      <pubDate>Sat, 27 Jul 2019 13:25:30 -0400</pubDate>
+      
+      <guid>/packet-tracer-7.2-macos-bug/</guid>
+      <description>Numpad Enter-Return key is not processed differently than the Enter-Return key
+Numpad Enter will cause the line to be ignored in the CLI, and in the command-prompt window of a PC</description>
+    </item>
+    
+  </channel>
+</rss>

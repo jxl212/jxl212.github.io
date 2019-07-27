@@ -6,10 +6,20 @@
     <description>Recent content on Main Page</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jul 2019 12:50:30 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2019 13:25:30 -0400</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Packet Tracer 7.2 MacOS Bug</title>
+      <link>/packet-tracer-7.2-macos-bug/</link>
+      <pubDate>Sat, 27 Jul 2019 13:25:30 -0400</pubDate>
+      
+      <guid>/packet-tracer-7.2-macos-bug/</guid>
+      <description>Numpad Enter-Return key is not processed differently than the Enter-Return key
+Numpad Enter will cause the line to be ignored in the CLI, and in the command-prompt window of a PC</description>
+    </item>
     
     <item>
       <title>Linux User Group Add</title>
@@ -35,7 +45,7 @@
       <pubDate>Sat, 13 Jul 2019 19:56:22 -0400</pubDate>
       
       <guid>/my-bash-settings/</guid>
-      <description>bash shell setting misc &amp;lsquo;run commands&amp;rsquo; files (bashrc, inputrc, vimrc, &amp;hellip;) settings like partial history searches, colored man pages</description>
+      <description>bash shell setting  https://github.com/jxl212/my_bash_settings/blob/44bf64cd4377a5570683b0e12044bf86a3520324/update_bashrc.sh#L2  misc &amp;lsquo;run commands&amp;rsquo; files (bashrc, inputrc, vimrc, &amp;hellip;) settings like partial history searches, colored man pages</description>
     </item>
     
     <item>
