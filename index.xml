@@ -36,7 +36,7 @@ Numpad Enter will cause the line to be ignored in the CLI, and in the command-pr
       <pubDate>Sat, 13 Jul 2019 23:52:59 -0400</pubDate>
       
       <guid>/about/</guid>
-      <description>{{ partial &#34;social-follow.html&#34; . }} </description>
+      <description>{{ partial &#34;social-follow.html&#34; . | markdownify }} </description>
     </item>
     
     <item>
